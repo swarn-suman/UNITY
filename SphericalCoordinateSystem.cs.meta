@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6478448fb4fcc0045bbefe266bc1a7e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pointPrefab: {fileID: 8006533026587413879, guid: 6bc4a9c697a894e4c94187827b6717a7, type: 3}
+  - spherePrefab: {fileID: 3482093815742961622, guid: 7284e00abe40b034389952fef3b5efb1, type: 3}
+  - radiusSlider: {instanceID: 0}
+  - thetaSlider: {instanceID: 0}
+  - phiSlider: {instanceID: 0}
+  - rText: {instanceID: 0}
+  - thetaText: {instanceID: 0}
+  - phiText: {instanceID: 0}
+  - xText: {instanceID: 0}
+  - yText: {instanceID: 0}
+  - zText: {instanceID: 0}
+  - cylindricalRText: {instanceID: 0}
+  - cylindricalThetaText: {instanceID: 0}
+  - cylindricalZText: {instanceID: 0}
+  - startButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
